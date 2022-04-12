@@ -1,0 +1,32 @@
+.foto{
+  
+  border-radius: 100%;
+  max-width: 200px;
+  border: 1px solid black;
+}
+body {
+    font: 14px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+    color: #3b3b3b;
+}
+.fundo{
+  background-color: #fffaeb
+}
+
+li >i{
+  margin-right: 10px;
+  color: black;
+}
+h1 {
+    border-bottom: 5px solid#dbdfff;
+    background-color: #00153d;
+    color: #ddd;
+    padding: 5px;
+}
+h2 {
+    border-top: 3px solid #001e57;
+    border-bottom: 1px solid #ccc;
+    background-color: #dbdfff;
+    padding-left: 5px;
+    margin: 0 0 0 -15px;
+    font-weight: normal;
+}
